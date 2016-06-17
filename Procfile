@@ -1,2 +1,2 @@
 
-java -jar r target/*.war
+java -jar  target/*.war
